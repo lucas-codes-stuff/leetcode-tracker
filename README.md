@@ -1,5 +1,7 @@
 # 🗓 Weekly LeetCode Tracker
 
+# THIS WILL START ON JAN 1 2025!
+
 This tracker captures my **weekly progress** on LeetCode, focusing on insights, improvements, and patterns rather than individual problems. Each week, I’ll summarize:
 
 - **Problems Solved**: The approximate count or categories of problems tackled.
@@ -16,9 +18,7 @@ Check out my [DSA Section](https://github.com/lucas-codes-stuff/learning?tab=rea
 | Week | Problems Solved (Approx) | Categories Covered     | Key Insights & Highlights               | Challenges & Roadblocks              | Next Week's Goals                    |
 |------|--------------------------|------------------------|-----------------------------------------|--------------------------------------|---------------------------------------|
 | 1    |                          |                        |                                         |                                      |                                       |
-| 2    |                          |                        |                                         |                                      |                                       |
-| 3    |                          |                        |                                         |                                      |                                       |
-| ...  |                          |                        |                                         |                                      |                                       |
+
 
 *(I will update this table as I go along, typically at the end of each week.)*
 
