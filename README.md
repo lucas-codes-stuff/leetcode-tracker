@@ -7,7 +7,7 @@ This tracker captures my **weekly progress** on LeetCode, focusing on insights, 
 - **Challenges**: Difficulties faced, topics I still need to improve on.
 - **Next Week's Goals**: What I plan to focus on moving forward.
 
-Check out my [DSA Section](../README.md#data-structures--algorithms-dsa) in the main learning repository to see related articles, tutorials, and notes I might use to adjust my approach.
+Check out my [DSA Section](https://github.com/lucas-codes-stuff/learning?tab=readme-ov-file#data-structures--algorithms-dsa) in the main learning repository to see related articles, tutorials, and notes I might use to adjust my approach.
 
 ---
 
@@ -35,7 +35,7 @@ Check out my [DSA Section](../README.md#data-structures--algorithms-dsa) in the 
 ## Goals & Adjustments
 
 - **Monthly Check-Ins**: Summarize overall progress at the end of each month.
-- **Resource Adjustments**: If I find consistent struggles, I’ll revisit the [DSA Section](../README.md#data-structures--algorithms-dsa) for refresher material on concepts that need reinforcement.
+- **Resource Adjustments**: If I find consistent struggles, I’ll revisit the [DSA Section](https://github.com/lucas-codes-stuff/learning?tab=readme-ov-file#data-structures--algorithms-dsa) for refresher material on concepts that need reinforcement.
 - **Balancing Categories**: Ensure diversity in problem categories from week to week.
 
 ---
