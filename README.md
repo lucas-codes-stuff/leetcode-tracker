@@ -28,14 +28,4 @@ Check out my [DSA Section](https://github.com/lucas-codes-stuff/learning?tab=rea
 - **Personal Growth**: Reflect on increased confidence, speed, or comprehension.
 - **Long-Term Trends**: Identify if certain problem types are becoming easier or still need more attention.
 
----
-
-## Goals & Adjustments
-
-- **Monthly Check-Ins**: Summarize overall progress at the end of each month.
-- **Resource Adjustments**: If I find consistent struggles, I’ll revisit the [DSA Section](https://github.com/lucas-codes-stuff/learning?tab=readme-ov-file#data-structures--algorithms-dsa) for refresher material on concepts that need reinforcement.
-- **Balancing Categories**: Ensure diversity in problem categories from week to week.
-
----
-
 **This tracker is a living document, evolving as I refine my approach to solving LeetCode problems.**  
