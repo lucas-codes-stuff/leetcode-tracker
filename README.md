@@ -1,7 +1,5 @@
 # 🗓 Weekly LeetCode Tracker
 
-# THIS WILL START ON JAN 1 2025!
-
 This tracker captures my **weekly progress** on LeetCode, focusing on insights, improvements, and patterns rather than individual problems. Each week, I’ll summarize:
 
 - **Problems Solved**: The approximate count or categories of problems tackled.
