@@ -17,8 +17,8 @@ Check out my [DSA Section](https://github.com/lucas-codes-stuff/learning?tab=rea
 
 | Week | Problems Solved (Approx) | Categories Covered     | Key Insights & Highlights               | Challenges & Roadblocks              | Next Week's Goals                    |
 |------|--------------------------|------------------------|-----------------------------------------|--------------------------------------|---------------------------------------|
-| 1    |                          |                        |                                         |                                      |                                       |
-
+|1 - 01/06/2025|3|Arrays|Lots of string manipulation and conversion. Did Roman to Int and Int to Roman this week|None ATM|More array practice, going to move to NeetCode to try it out|
+|2 - 01/13/2025||||||
 
 *(I will update this table as I go along, typically at the end of each week.)*
 
